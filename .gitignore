@@ -1,0 +1,10 @@
+# 自动生成：API 文档索引（由本机 Siemens NX 文档生成，不能公开分发）、批处理临时脚本
+cache/
+
+# 本地建模产出
+output/
+*.prt
+*.log
+
+__pycache__/
+*.pyc
